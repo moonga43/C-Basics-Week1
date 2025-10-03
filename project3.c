@@ -14,4 +14,4 @@ if (num2 != 0) {
  printf("Quotient = undefined (division by zero)\n");
  }
 return 0;
-} 
+}
