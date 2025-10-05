@@ -33,6 +33,5 @@ int main(){
                 break;
            default:
                 printf("error: invalid operation!/n");
-                return 1;
-     }
-
+                return 0;
+}
